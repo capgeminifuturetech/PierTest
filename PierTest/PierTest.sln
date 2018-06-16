@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PierTest.Api", "PierTest.Api\PierTest.Api.csproj", "{A5B12283-FE2C-4441-8623-237A0602C486}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5B12283-FE2C-4441-8623-237A0602C486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5B12283-FE2C-4441-8623-237A0602C486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5B12283-FE2C-4441-8623-237A0602C486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5B12283-FE2C-4441-8623-237A0602C486}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B50CE04-3283-47BD-A662-A4B5B69F42B0}
+	EndGlobalSection
+EndGlobal
